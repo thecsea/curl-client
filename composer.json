@@ -1,5 +1,5 @@
 {
-    "name": "php-http/curl-client",
+    "name": "thecsea/curl-client",
     "description": "PSR-18 and HTTPlug Async client with cURL",
     "license": "MIT",
     "keywords": [
